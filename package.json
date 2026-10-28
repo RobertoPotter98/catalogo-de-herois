@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/RobertoPotter98/Catalogo-de-Herois#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.3.0"
   }
 }
