@@ -1,0 +1,24 @@
+{
+  "name": "catalogo-de-herois",
+  "version": "1.0.0",
+  "description": "Projeto Catálogo de Heróis",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoPotter98/Catalogo-de-Herois.git"
+  },
+  "keywords": [],
+  "author": "Roberto Potter",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RobertoPotter98/Catalogo-de-Herois/issues"
+  },
+  "homepage": "https://github.com/RobertoPotter98/Catalogo-de-Herois#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
