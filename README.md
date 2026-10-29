@@ -1,19 +1,23 @@
 
-Catálogo de Heróis
-Projeto desenvolvido para a disciplina de Desenvolvimento Back-End utilizando Node.js e Express.
+Bem-Vindo(a)!!
+Segue abaixo a atividade prática do desafio semanal da Disciplina de Desenvolvimento Back-End utilizando Node.js e Express.
 
-Instalação
-npm install
-Execução
-npm start
-ou
+---Catálogo de Heróis---
 
-node app.js
-Rotas
+Rotas:
+
 /
 /marvel
+
 /dc
 /personagem/marvel/Thor
+
+/personagem/marvel/Homem-de-Ferro
+
 /personagem/dc/Batman
-Autor
-Roberto
+
+/personagem/dc/Superman">Superman
+
+Autor:Roberto Gustavo Potter
+
+Polo Sobradinho/RS
