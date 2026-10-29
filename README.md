@@ -6,18 +6,19 @@ Segue abaixo a atividade prática do desafio semanal da Disciplina de Desenvolvi
 
 Rotas:
 
-/
+
 /marvel
 
 /dc
+
 /personagem/marvel/Thor
 
 /personagem/marvel/Homem-de-Ferro
 
 /personagem/dc/Batman
 
-/personagem/dc/Superman">Superman
+/personagem/dc/Superman
 
-Autor:Roberto Gustavo Potter
+Autor: Roberto Gustavo Potter
 
 Polo Sobradinho/RS
